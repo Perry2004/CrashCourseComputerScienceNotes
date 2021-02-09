@@ -1,6 +1,5 @@
 # CrashCourseComputerScienceNotes
-Perry's notes for Crash Course computer science. 
----
+#### Perry's notes for Crash Course computer science. 
 ## Overview 
 This is a note for "Crash Course Computer Science". 
 The original videos are available on youtube: https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulI <br>
